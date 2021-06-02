@@ -1,0 +1,23 @@
+QMenu{
+    background: #313131;
+    color: #fff;
+    font-size: 14px;
+}
+
+/*QMenu::item{
+    margin: 1px; padding: 2px 20px 2px 2px;
+}
+
+QMenu::icon{
+    margin-left: 4px;
+}*/
+
+QMenu::item:selected{
+    background: #232323;
+}
+
+/*
+QMenu::indicator{
+    margin-left: 30px;
+}
+*/

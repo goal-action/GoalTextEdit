@@ -1,0 +1,19 @@
+QLabel{
+    background: #232323;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+QListWidget{
+    background: #232323;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+}
+
+QListWidget::item:selected{
+    background: #007e99;
+    color: #fff;
+}

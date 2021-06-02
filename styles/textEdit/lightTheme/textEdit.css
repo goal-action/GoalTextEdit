@@ -1,0 +1,38 @@
+QTextEdit{
+    font-size: 18px;
+    background: #e7e6e1;
+    font-weight: 600;
+    border: none;
+}
+
+QComboBox{
+    color: #393e46;
+    border-left: 2px solid #00adb5;
+}
+
+QComboBox QAbstractItemView {
+    border: 2px solid #00adb5;
+}
+
+QComboBox::item{
+    background: #eeeeee;
+}
+
+QComboBox::drop-down {
+    image: url(":/images/elements/arrow.png");
+    width: 12px;
+}
+
+QListView{
+    color: #393e46;
+    background: #eeeeee;
+}
+
+QScrollBar{
+    background: #007e99;
+    width: 10px;
+}
+
+QScrollBar::handle{
+    background : #007e99;
+}

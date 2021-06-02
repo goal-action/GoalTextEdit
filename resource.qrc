@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainBlank/mainBlank.cpp</file>
+        <file>images/fileTypes/cppFile.png</file>
+        <file>images/fileTypes/headerFile.png</file>
+        <file>images/menu/openProject.png</file>
+        <file>images/menu/newProject.png</file>
+        <file>images/menu/close.png</file>
+        <file>images/menu/newFile.png</file>
+        <file>styles/mainMenuStyle/lightTheme/menu.css</file>
+        <file>styles/mainMenuStyle/lightTheme/menuBar.css</file>
+        <file>styles/mainMenuStyle/darkTheme/menu.css</file>
+        <file>styles/mainMenuStyle/darkTheme/menuBar.css</file>
+        <file>styles/stackedTextEdits/darkTheme/stackedTextEdit.css</file>
+        <file>styles/stackedTextEdits/lightTheme/stackedTextEdits.css</file>
+        <file>styles/textEdit/darkTheme/textEdit.css</file>
+        <file>styles/textEdit/lightTheme/textEdit.css</file>
+        <file>styles/sideBar/darkTheme/sideBar.css</file>
+        <file>styles/sideBar/lightTheme/sideBar.css</file>
+        <file>styles/statusBar/darkTheme/statusBar.css</file>
+        <file>styles/statusBar/lightTheme/statusBar.css</file>
+        <file>styles/goalTextEdit/lightTheme/textEdit.css</file>
+        <file>styles/goalTextEdit/darkTheme/textEdit.css</file>
+    </qresource>
+</RCC>
